@@ -1,6 +1,6 @@
 color_class,color
-primary,
-secondary,
+primary"#F77F00"
+secondary,"#D62828"
 success,
 info,
 warning,
