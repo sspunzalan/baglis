@@ -10,15 +10,17 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/objects/banner.jpg" %}
 
-# About the Collection
+# About Baglis
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Baglis is digital collection containing local animated films, series, and comics of the Philippines. This was created in partial fulfillment of the course CWTS 2 SLIS under Professor Paul Jauson Perez.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+With the digital collection, we aim to promote the creativity and skill in the animation and comics industry of the Philippines by showcasing these works across the years.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+**Project Contributors**
+- Jean Pearl Bade
+- Marie Nikkei Castillo
+- Zell Gelua
+- Lance Pingol
+- Sam Punzalan
 
 
