@@ -16,7 +16,8 @@ Baglis is digital collection containing local animated films, series, and comics
 
 With the digital collection, we aim to promote the creativity and skill in the animation and comics industry of the Philippines by showcasing these works across the years.
 
-**Project Contributors**
+
+**Project Contributors:**
 - Jean Pearl Bade
 - Marie Nikkei Castillo
 - Zell Gelua
