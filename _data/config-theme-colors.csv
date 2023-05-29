@@ -1,9 +1,9 @@
 color_class,color
 primary,"#003049"
-secondary,"#EAE2B7"
+secondary,"#FCBF49"
 success,"#0FA89D"
 info,"#4871BA"
-warning,"#FCBF49"
+warning,"#F77F00"
 danger,"#D62828"
 light,"#EAE2B7"
 dark,"#001D2F"
