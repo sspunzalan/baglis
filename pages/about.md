@@ -9,7 +9,8 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="/objects/banner.jpg" %}
-## About the Collection
+
+# About the Collection
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
@@ -20,4 +21,4 @@ The template repository features four objects from the University of Idaho Libra
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-## °。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。
+#
