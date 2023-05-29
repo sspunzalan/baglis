@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
+runtime,Run Time,,,
 date,Date,,,Date
 writer,Writer,,,
 production,Production,,,
 subject,,true,,
-runtime,Run Time,,,
